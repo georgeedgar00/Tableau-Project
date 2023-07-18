@@ -33,9 +33,9 @@ The results showed that the states with the most incidences were:
 - Florida
 - New York
 
-The Geese and ducks species family is the third most affected, but they cause most of the damages, with almost 140 million in the dataset.
+The Geese and ducks species family is the third most affected, but they caused most of the damage.
 
-California has the most strikes, but New York has the most expensive ones.
+California has the most strikes, but New York has spent the most to fix damages.
 
 In the data, I also found that in 2009, an incident destroyed an aircraft and cost 49 million. This value is an outlier for the data because it behaves outside the rest of the years, but I keep it in my calculations for forecast and cost. 
 
@@ -47,10 +47,12 @@ For more details please refer to the following:
 
 ## Challenges 
 
-- The initial challenge was organizing and preparing the questions.
+- Creating questions to answer.
+- 
 
 
 ## Future Goals
 
 - Creating more graphics related to data.
-- Preparing a story to narrate the data relevance and findings.
+- Create a story.
+- Create tools to change from state to state 
