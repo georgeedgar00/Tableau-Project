@@ -48,7 +48,8 @@ For more details please refer to the following:
 ## Challenges 
 
 - Creating questions to answer.
-- 
+- Making the live dashboard interactive
+- Removing outliers
 
 
 ## Future Goals
